@@ -1,8 +1,8 @@
 ### School
 
--[Cy Tech](https://cytech.cyu.fr/)
+- [Cy Tech](https://cytech.cyu.fr/)
 
-### Projects
+### Project
 - websensor
 
 
